@@ -1,0 +1,12 @@
+metric,value,description
+total_sales,2261536.78,Total revenue across all regions
+top_region,West,Region with highest total sales
+top_region_sales,710219.68,Total sales in the top region
+second_region,East,Second highest revenue region
+second_region_sales,669518.73,Total sales in the second region
+top_category,Technology,Highest performing product category
+top_category_sales,827455.87,Total sales for top category
+second_category,Furniture,Second highest category by sales
+second_category_sales,728658.58,Total sales for second category
+lowest_top_category,Office Supplies,Lowest among top three categories
+lowest_top_category_sales,705422.33,Total sales for lowest top category
